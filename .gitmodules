@@ -1,0 +1,6 @@
+[submodule "control-expenses-app-main"]
+	path = control-expenses-app-main
+	url = https://github.com/HiImRussel/control-expenses-app-main
+[submodule "control-expenses-server"]
+	path = control-expenses-server
+	url = https://github.com/HiImRussel/control-expenses-server

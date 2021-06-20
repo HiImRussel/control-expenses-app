@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "60ca4716beeab9f4daa0521c"
+  },
+  "userID": "60c887703efacdfed54c91d6",
+  "limitValue": 500,
+  "status": "ended"
+},{
+  "_id": {
+    "$oid": "60cbac1e61d3a604d4faca25"
+  },
+  "userID": "60c887703efacdfed54c91d6",
+  "limitValue": 200,
+  "targetValue": 0,
+  "status": "active"
+}]

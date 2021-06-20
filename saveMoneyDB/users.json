@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "60c887703efacdfed54c91d6"
+  },
+  "userName": "test",
+  "userLogin": "admin",
+  "userPassword": "sha1$dfefa974$1$ced1bf7740486c0238f11504abed4637a34da7d5",
+  "userRole": "admin"
+},{
+  "_id": {
+    "$oid": "60c8eed3d4f8101230fc664d"
+  },
+  "userName": "Eryk",
+  "userLogin": "Eryk",
+  "userPassword": "sha1$7264b493$1$18787519fa50d8fe6b8865cec1886a7104e57209",
+  "userRole": "user"
+}]
